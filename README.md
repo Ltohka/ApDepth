@@ -1,4 +1,4 @@
-# ApDepth: Aiming for Precise Monocular Depth Estimation Based on Diffusion Models
+## ApDepth: Aiming for Precise Monocular Depth Estimation Based on Diffusion Models
 
 This repository is based on [Marigold](https://marigoldmonodepth.github.io), CVPR 2024 Best Paper: [**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**](https://arxiv.org/abs/2312.02145)
 
